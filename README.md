@@ -30,8 +30,7 @@ Profesional en Relaciones Internacionales con experiencia en análisis de datos.
 - Git / GitHub
 
 ## Contacto
-- LinkedIn: [tu perfil]
-- Email: [tu email]
+- Email: daniela.cruz.g@hotmail.com
 
 ---
 
